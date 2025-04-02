@@ -25,6 +25,10 @@
 git clone https://github.com/badal-mehra/ai-porthawk
 cd ai-porthawk
 
+# Required Installations:
+pip install rich
+
+
 # Install dependencies
 pip install -r requirements.txt
 ```
