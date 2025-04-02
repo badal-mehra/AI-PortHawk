@@ -18,6 +18,16 @@
 - 📄 **PDF/HTML reports** with vulnerability details
 
 ---
+🔥 Why AI-PortHawk?
+AI-PortHawk 🦅 isn't just another port scanner—it’s an AI-powered cybersecurity tool designed to provide faster, smarter, and more actionable insights than traditional scanners. Here’s why you should use it:
+
+⚡ 1. Ultra-Fast Scanning (65,535 Ports)
+🧠 2. AI-Driven Threat Analysis
+🔍 3. Smart Service & Banner Detection
+📊 4. Professional Reports & Real-Time Results
+🛠️ 5. Easy to Use & Customizable
+
+---
 
 ## 💻 Installation
 ```bash
