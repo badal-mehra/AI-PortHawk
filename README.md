@@ -35,6 +35,38 @@ pip install -r requirements.txt
 
 ---
 
+## 📸 Images & How-To
+### Step 1: Basics – What is AI-PortHawk?
+AI-PortHawk 🦅 is a powerful AI-based port scanner that helps identify open ports, detect services, and assess vulnerabilities.
+
+📌 Overview of AI-PortHawk:
+<img width="886" alt="1 jpeg" src="https://github.com/user-attachments/assets/1bce0d26-80f0-49a4-a3e4-8d7f09389f47" />
+
+### Step 2: How to Use It
+🔹 Installation
+
+1️⃣ Clone the repository & install dependencies:
+
+Copy
+git clone https://github.com/badal-mehra/AI-PortHawk.git
+cd AI-PortHawk
+
+pip install -r requirements.txt
+
+2️⃣ Command Execution Screenshot:
+![ai-porthawk py - practice - Visual Studio Code 4_1_2025 2_40_03 PM (4)](https://github.com/user-attachments/assets/897db098-0026-4cef-894f-2a5571d6032e)
+
+### Step 3: Understanding the Output
+Once the scan completes, you will see a detailed output:
+✅ Open Ports
+✅ Detected Services
+✅ Potential Vulnerabilities
+
+📷 Example Output Screenshot:
+<img width="951" alt="3" src="https://github.com/user-attachments/assets/7748ccf4-68cc-4978-a1af-5e3f2f1c24c9" />
+
+
+
 ## 🛠️ Usage
 ### Basic scan:
 ```bash
