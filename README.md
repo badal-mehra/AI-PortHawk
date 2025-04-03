@@ -111,6 +111,7 @@ PORT    SERVICE   THREAT   BANNER
 - 🔗 Shodan API integration
 - 🔥 Real-time CVE updates
 - 🐳 Docker support
+- 
 
 ---
 
