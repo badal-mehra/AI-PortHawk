@@ -11,7 +11,7 @@
 ![AI-PortHawk Demo](assets/demo.gif)
 
 ## 🚀 Features
-- ⚡ **Scans 65,535 ports** in under 5 minutes
+- ⚡ **Scans 65,535 ports** in under 5 minutes 
 - 🤖 **AI-driven threat scoring** (Low/Medium/High risk)
 - 🔍 **Smart service detection** (HTTP, SSH, FTP, RDP)
 - 🕵️ **Stealth mode** with randomized delays
