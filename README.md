@@ -1,5 +1,5 @@
 # 🔍 AI-PortHawk 🦅 
-*Next-Gen AI-Powered Port Scanner*  
+*Next-Gen AI-Powered Port Scanner* 
 *By [Badal Mehra](https://github.com/badal-mehra)* 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org)
